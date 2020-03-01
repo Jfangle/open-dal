@@ -1,0 +1,14 @@
+{
+  "name": "node-crudlayer",
+  "version": "0.0.0",
+  "description": "NodeCRUDLayer",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.5.3",
+    "mongoose": "^5.9.2"
+  }
+}
